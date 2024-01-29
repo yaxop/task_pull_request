@@ -122,3 +122,8 @@ git branch
 ```sh
 git checkout <имя ветки>
 ```
+
+Отображение всех веточек 
+```sh
+git branch
+```

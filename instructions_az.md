@@ -144,3 +144,29 @@ git branch <имя_новой_веточки>
 |-|--------|---|
 |Длинная запись в первом столбце|Запись в столбце 2|Запись в столбце 3|
 |Кртк зпс| |Слева нет записи|
+Посмотреть объединение веточек через график
+```sh
+git log --oneline --graph
+```
+Как вставить кусочек кода
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
+```
+
+```c
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+
+```javascript
+let x = 12;
+let y = 6;
+console.log(x + y);
+```

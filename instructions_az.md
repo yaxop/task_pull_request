@@ -113,5 +113,5 @@ ___жирный курсив___
 ```
 Перемещение по веткам 
 ```sh
-git checkout <branch_name>
+git checkout <branch_name дубль 2>
 ```
